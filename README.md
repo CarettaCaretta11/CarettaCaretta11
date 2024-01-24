@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Kamran from Azerbaijan.<br><br>I am a Research and Development Intern at UVR Lab, KAIST. Currently working on 3D Gaussian Splatting for real-time rendering of scenes without the computational overhead of NNs. I also maintain several other projects, some of which are open-source.</p>
+<p align="left">I'm Kamran from Azerbaijan. I enjoy writing software!</p>
 
 ###
 

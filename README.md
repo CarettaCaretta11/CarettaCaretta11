@@ -6,15 +6,7 @@
 
 ###
 
-<h1 align="center">hey 👋</h1>
-
-###
-
-<h3 align="left">👨🏻‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Kamran from Azerbaijan. I enjoy writing software!</p>
+<h1 align="center">Hey 👋</h1>
 
 ###
 
